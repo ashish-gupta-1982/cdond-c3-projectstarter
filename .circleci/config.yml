@@ -394,7 +394,7 @@ jobs:
             then
                 # Change this to 0 after the job fails
                 # return 1
-              return 1
+              return
             else
               return 1
             fi
